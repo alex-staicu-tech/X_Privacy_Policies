@@ -5,7 +5,7 @@ Effective Date: 18.October.2026
 These License and Terms of Use ("Terms") govern your use of all software, games and apps published under the name "X Games".
 
 1. Who We Are
-1.1 The Software is published by [FULL NAME] PFA, a sole trader (persoana fizica autorizata) registered in Romania, Trade Register no. [Fxx/xxxx/yyyy], CUI [xxxxxxxx], under the name "X Games" ("X Games," "we," "us," or "our").
+1.1 The Software is published by STAICU ALEXANDRU-OVIDIU PERSOANA FIZICA AUTORIZATA, a sole trader registered in Romania, CUI 46290913, under the name "X Games" ("X Games," "we," "us," or "our").
 1.2 Contact: x.games.contactus@gmail.com
 
 2. Scope
@@ -81,7 +81,7 @@ These License and Terms of Use ("Terms") govern your use of all software, games 
 
 16. Governing Law and Jurisdiction
 16.1 These Terms are governed by Romanian law.
-16.2 Any dispute with a business is subject to the exclusive jurisdiction of the competent courts of [CITY], Romania.
+16.2 Any dispute with a business is subject to the exclusive jurisdiction of the competent courts of Bucharest, Romania.
 16.3 If you are a consumer, you keep the protection of the mandatory laws of your country of residence, and you may bring proceedings in the courts of your country of residence.
 
 17. Contact Us
