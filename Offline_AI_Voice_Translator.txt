@@ -4,6 +4,8 @@ Effective Date: 30.June.2023
 
 This Privacy Policy describes how Offline_AI_Voice_Translator ("we," "us," or "our") collects, uses, and safeguards the personal information and audio recordings obtained through our game. By using our game, you agree to the collection and use of your personal information as described in this policy.
 
+Your use of Offline_AI_Voice_Translator is also governed by the X Games License and Terms of Use: https://github.com/alex-staicu-tech/X_Privacy_Policies/blob/main/x_games_terms_of_use.txt
+
 Information We Collect
 1.1 Audio Recordings:
 

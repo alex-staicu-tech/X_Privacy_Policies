@@ -1,0 +1,88 @@
+License and Terms of Use for X Games apps
+
+Effective Date: 18.October.2026
+
+These License and Terms of Use ("Terms") govern your use of all software, games and apps published under the name "X Games".
+
+1. Who We Are
+1.1 The Software is published by STAICU ALEXANDRU-OVIDIU PERSOANA FIZICA AUTORIZATA, a sole trader registered in Romania, CUI 46290913, under the name "X Games" ("X Games," "we," "us," or "our").
+1.2 Contact: x.games.contactus@gmail.com
+
+2. Scope
+2.1 "Software" means every app, game and program published by X Games, in any version and form, including executables, source code, graphics, audio, music, text, characters and other assets.
+2.2 These Terms apply regardless of where you obtained the Software (for example Google Play, Steam, itch.io, GitHub, Patreon, Epic Games Store, GOG, or any other platform or website).
+2.3 A specific piece of Software may come with additional terms. If it does, those additional terms apply together with these Terms and prevail where they conflict.
+2.4 By installing, accessing or using the Software you agree to these Terms. If you do not agree, do not install, access or use the Software.
+
+3. Ownership
+3.1 The Software is protected by copyright under Romanian Law no. 8/1996 and international treaties. All rights not expressly granted in these Terms are reserved.
+3.2 To the extent permitted by applicable law, the Software is licensed to you, not sold.
+
+4. Personal License
+4.1 Subject to these Terms, we grant you a limited, non-exclusive, non-transferable license to install and use the Software for your Personal Use.
+4.2 "Personal Use" means use by an individual for their own private purposes, not connected to any trade, business, profession or organization.
+4.3 Buying the Software, donating, or supporting us (for example through a store purchase or a Patreon membership) grants you this Personal License only. It does not grant you any Commercial Use rights.
+
+5. Commercial Use
+5.1 Commercial Use of the Software is prohibited unless you have a separate written license agreement signed by us (by hand or electronically).
+5.2 "Commercial Use" means any use that is not Personal Use, including:
+  (a) selling, reselling, renting, leasing or sublicensing the Software, or access to it;
+  (b) using the Software by or on behalf of any company, sole trader, freelancer, non-profit, public institution or other organization;
+  (c) using the Software in the course of any professional, business or income-generating activity, including with clients, customers or employees;
+  (d) using the Software, or any part of it, to provide a paid product or service.
+5.3 No email, message, purchase, donation, platform transaction, or our silence or tolerance of past use counts as permission for Commercial Use. Only a signed license agreement does.
+5.4 To request a commercial license, contact us at x.games.contactus@gmail.com.
+
+6. Restrictions
+6.1 Except as expressly allowed in these Terms, or where applicable law allows it regardless of these Terms, you may not:
+  (a) copy, redistribute, re-upload, mirror or share the Software, in original or modified form, on any store, website, file-sharing service or other channel, whether for a fee or free of charge;
+  (b) modify, repackage, translate or create derivative works of the Software, or publish modified versions of it;
+  (c) use any part of the Software (including code, graphics, audio, music, text or characters) in another product, service or work;
+  (d) decompile, disassemble or reverse engineer the Software;
+  (e) remove or alter any copyright notice, branding or license information;
+  (f) bypass or disable any technical protection measure of the Software;
+  (g) use our name or branding in a way that suggests we endorse you or your product.
+6.2 Sharing features officially provided by the platform you obtained the Software from (for example family sharing) are allowed within that platform's own rules.
+
+7. Source Code
+7.1 Where we publish the source code of the Software (for example on GitHub), it is source-available, not open source. Sections 4 to 6 apply to it in full.
+7.2 You may view and study the source code, and build and run it for your Personal Use only.
+7.3 Forking a public repository within GitHub is allowed only to the extent GitHub's Terms of Service provide. A fork grants no rights beyond these Terms.
+7.4 By submitting a contribution to the Software (for example a pull request, patch or issue containing code), you grant us a perpetual, irrevocable, worldwide, royalty-free license to use, modify, distribute, sublicense and commercially license your contribution, and you confirm you have the right to grant this license.
+
+8. Videos, Streams and Screenshots
+8.1 You may create and publish videos, live streams, screenshots and reviews showing the Software, including monetized ones.
+8.2 This permission does not allow you to distribute the Software itself, to use its assets outside such content, or to suggest that we endorse you.
+
+9. Text and Data Mining
+9.1 We expressly reserve our rights under Article 4(3) of Directive (EU) 2019/790. You may not use the Software, its source code or its assets for text and data mining, including training or improving artificial intelligence or machine learning models, without our written permission.
+
+10. Third-Party Components and Platforms
+10.1 The Software may include third-party components licensed under their own terms. Those terms apply to those components and are not limited by these Terms.
+10.2 The terms of the platform you obtained the Software from also apply to your use of that platform.
+
+11. Privacy
+11.1 How we handle personal data is described in the privacy policy of each Software.
+
+12. Termination
+12.1 Your license ends automatically if you breach these Terms. You must then stop using the Software and delete all copies in your possession.
+12.2 Sections 3, 5, 6, 7.4, 9, 13 and 16 remain in effect after termination.
+
+13. Disclaimer and Limitation of Liability
+13.1 To the maximum extent permitted by law, the Software is provided "as is" and "as available", without warranties of any kind, and we are not liable for any damages arising from its use.
+13.2 Nothing in these Terms limits or excludes liability that cannot be limited or excluded by law, or any rights you have as a consumer under mandatory law.
+
+14. Changes to these Terms
+14.1 We may update these Terms. The current version and its effective date will always be published at the same location. Your continued use of the Software after the effective date of the updated Terms constitutes your acceptance of them.
+
+15. Transfer
+15.1 We may transfer these Terms, and our rights in the Software, to a successor, including a company we set up or control. These Terms then continue to apply between you and that successor.
+15.2 You may not transfer your license, except as allowed by the platform you obtained the Software from.
+
+16. Governing Law and Jurisdiction
+16.1 These Terms are governed by Romanian law.
+16.2 Any dispute with a business is subject to the exclusive jurisdiction of the competent courts of Bucharest, Romania.
+16.3 If you are a consumer, you keep the protection of the mandatory laws of your country of residence, and you may bring proceedings in the courts of your country of residence.
+
+17. Contact Us
+17.1 For questions about these Terms or to request a commercial license, contact us at x.games.contactus@gmail.com.
